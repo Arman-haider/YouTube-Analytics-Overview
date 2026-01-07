@@ -14,10 +14,9 @@ performance comparison, and continuous improvement for digital content platforms
 ├── YoutubeSQL.sql               # SQL queries for data analysis<br>
 ├── README.md                    # Project documentation<br>
 ├── Youtube Analytics Overview   # Power BI dashboard files (.pbix)<br>
-│   
 └── Dashboard                 # Dashboard screenshots (optional)<br>
 
----
+
 
 ## 🛠 Tools & Technologies
 - **Visualization Platform:** Power BI / Tableau  
