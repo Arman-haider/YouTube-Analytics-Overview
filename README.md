@@ -10,12 +10,12 @@ performance comparison, and continuous improvement for digital content platforms
 ## 📂 Repository Structure
 
 # YouTube-Analytics-Overview<br>
-<a href="https://github.com/Arman-haider/YouTube-Analytics-Overview/blob/main/youtube.csv"> youtube.csv  </a>   YouTube analytics dataset<br>
-├── YoutubeSQL.sql               # SQL queries for data analysis
-├── README.md                    # Project documentation
-├── dashboards/                  # Power BI dashboard files (.pbix)
-│   └── Dashboard.pbix
-└── screenshots/                 # Dashboard screenshots (optional)
+├── youtube.csv                  # YouTube analytics dataset<br>
+├── YoutubeSQL.sql               # SQL queries for data analysis<br>
+├── README.md                    # Project documentation<br>
+├── Youtube Analytics Overview   # Power BI dashboard files (.pbix)<br>
+│   
+└── Dashboard                 # Dashboard screenshots (optional)<br>
 
 ---
 
